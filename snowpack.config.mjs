@@ -29,5 +29,6 @@ export default {
   },
   buildOptions: {
     /* ... */
+    baseUrl: '/typescript-todo-app/',
   },
 };
